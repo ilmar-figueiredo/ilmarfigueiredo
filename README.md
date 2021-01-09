@@ -3,10 +3,6 @@
 ![Alt Text](https://github.com/ilmar-figueiredo/ilmarfigueiredo/blob/main/Ilmar%20Figueir%C3%AAdo%20(3).png)
 
 
-
-
-
-
 <center>
 <table>
     <tr>
@@ -15,6 +11,5 @@
     </tr>   
 </table>
 </center>  
-### Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
