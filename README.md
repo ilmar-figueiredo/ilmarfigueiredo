@@ -12,6 +12,8 @@
 </table>
 </center>  
 
-### Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Seja bem-vindo ao meu Github! 
+Aqui você irá conhecer os meus projetos já desenvolvidos e projetos em andamentos.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/ilmar-figueirêdo-91b9b4a4"><img src="https://github.com/ilmar-figueiredo/ilmar-figueiredo/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/ilmar-figueirêdo-91b9b4a4)  
